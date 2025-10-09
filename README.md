@@ -1,65 +1,80 @@
-<img align="right" src="https://raw.githubusercontent.com/ahmedhamdy3425/ahmedhamdy3425/main/github-profile.png" width="30%">
+<!-- 🎨 Ahmed Hamdy | AI & Data Engineer Profile -->
 
-<h1>
-  Hi There, I'm Ahmed Hamdy 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<p>
-I'm an AI student passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>Data Science</b>.  
-I love applying AI to real-world problems and creating intelligent solutions.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:00bfff&height=200&section=header&text=Ahmed%20Hamdy%20🤖&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-- 🤖 Currently focusing on **AI fundamentals**, **Machine Learning**, and **Intelligent Agents**.  
-- 💻 Completed training programs from **NVIDIA** including “AI for All” & “Generative AI Explained”.  
-- 🧪 Built projects in **fraud detection**, **medical imaging**, and **face recognition**.  
-- 🎯 Future Goals: Deepen my knowledge in deep learning and contribute to impactful AI projects.  
+<h3 align="center">💻 AI Engineer | 🧠 Data Analyst | 📊 Machine Learning Engineer</h3>
 
 ---
 
-### 🌐 Connect With Me  
-<p>
-<a href="https://www.linkedin.com/in/ahmed-hamdy89"><img
-    src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/ahmedhamdy142004"><img
-    src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-<!-- إذا عندك فيسبوك تضيفه هنا -->
-<a href="mailto:ahmed.hamdy@example.com"><img
-    src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://github.com/ahmedhamdy3425"><img
-    src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+## 👋 Hey there!
+I'm **Ahmed Hamdy**, a passionate **AI & Data Engineer** who loves exploring how data and intelligence can change the world.  
+I focus on **Machine Learning, Data Analysis, and Computer Vision**, always looking for new ways to solve real-world problems using AI.
+
+💡 *"Learning never stops — every dataset tells a story!"*
+
+---
+
+## 🎓 Education & Professional Training  
+
+### 🚀 Technical Programs & Certifications:
+- 🎯 **Microsoft Machine Learning Engineer**
+– 🧩 **AI Engineer - Huawei Egyptian Talents Academy (ETA)**
+– 📊 **Computer Vision Engineer - National Telecommunication Institute**
+– 💻 **Business Intelligence Analyst - Information Technology Institute (ITI)**
+
+### 🧠 Additional Certifications:
+- 🤖 **AI for All: From Basics to GenAI Practice – NVIDIA**  
+- 🧬 **Generative AI Explained – NVIDIA**  
+- 📈 **Data Analysis & SSRS Reporting**  
+- 🔍 **Exploratory Data Analysis (EDA)**  
+
+---
+
+## 🚀 Featured Projects  
+
+| 🔍 Project | 🧩 Description | 🔗 Link |
+|------------|----------------|--------|
+| 💳 **Credit Card Fraud Detection** | Detect fraudulent transactions using ML classification algorithms. | [View Project](https://github.com/ahmedhamdy3425/Credit-Card-Fraud-Detection) |
+| 🧬 **Melanoma Cancer Detection** | Deep learning model that detects melanoma using image classification. | [View Project](https://github.com/ahmedhamdy3425/Melanoma-Cancer-Detection) |
+| 📊 **AI Usage Dashboard** | Interactive dashboard that tracks daily AI usage and gives motivational insights. | [View Project](https://github.com/ahmedhamdy3425/AI-Usage-Dashboard) |
+
+---
+
+## ⚙️ Tools & Technologies  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pandas,numpy,matplotlib,seaborn,sql,git,github,vscode,excel,powerbi&theme=dark" />
 </p>
 
 ---
 
-### 🧠 Featured Projects  
+## 📈 GitHub Statistics  
 
-- 💳 **Credit Card Fraud Detection** – Detecting fraudulent transactions using ML models.  
-- 🩺 **Melanoma Cancer Detection** – Image-based melanoma detection with deep learning.  
-- 😎 **Face Detection (RetinaFace)** – Real-time face detection using RetinaFace on Colab.  
-- 🎨 **Virtual Painter** – Project management dashboard in Notion to organize AI work.  
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhamdy3425&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamdy3425&layout=compact&theme=tokyonight&hide_border=true" /> |
+| ------------- | ------------- |
 
----
-
-### 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)  
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy)  
-![Pandas](https://img.shields.io-badge/-Pandas-000000?style=flat&logo=pandas)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000000?style=flat&logo=scikitlearn)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)  
-![PyTorch](https://img.shields.io-badge/-PyTorch-000000?style=flat&logo=pytorch)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)  
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sqlite)  
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-000000?style=flat&logo=googlecolab)  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhamdy3425&theme=chartreuse-dark" alt="Contribution Graph"/>
+</p>
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamdy3425&layout=compact)  
-<br>  
-<a href="https://komarev.com/ghpvc/?username=ahmedhamdy3425&style=for-the-badge">  
-    <img src="https://komarev.com/ghpvc/?username=ahmedhamdy3425&style=for-the-badge">  
-</a>
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-hamdy89"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/ahmedhamdy142004"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.facebook.com/share/17W3sYkxek/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="mailto:ahmedhamdyelkassas142004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/ahmedhamdy3425"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
 ---
 
-⭐ *“AI is not just the future — it’s the tool we build the future with.”*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:6a00f4&height=100&section=footer"/>
+</p>
+
+⭐ *"Keep learning, keep building — the best projects are yet to come!"* ✨
