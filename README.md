@@ -65,7 +65,7 @@ I focus on **Machine Learning, Data Analysis, and Computer Vision**, always look
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-hamdy89"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="[https://www.instagram.com/ahmedhamdy142004](https://www.instagram.com/ahmed_hamdy140?igsh=MW4xdDRiYnBzdGVwMg==)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="[https://www.instagram.com/ahmedhamdy142004]"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.facebook.com/share/17W3sYkxek/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="mailto:ahmedhamdyelkassas142004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/ahmedhamdy3425"><img src="https://skillicons.dev/icons?i=github" /></a>
