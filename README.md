@@ -36,7 +36,7 @@ I focus on **Machine Learning, Data Analysis, and Computer Vision**, always look
 
 | 🔍 Project | 🧩 Description | 🔗 Link |
 |------------|----------------|--------|
-|** Customer-Churn-Prediction-and-Analysis ** | A Machine Learning project to identify at-risk customers by analyzing behavior patterns and building predictive models to enhance retention strategies. | [View Project](https://github.com/MohamedAshraf7122/Customer-Churn-Prediction-and-Analysis) |
+| **Customer-Churn-Prediction-and-Analysis** | A Machine Learning project to identify at-risk customers by analyzing behavior patterns and building predictive models to enhance retention strategies. | [View Project](https://github.com/MohamedAshraf7122/Customer-Churn-Prediction-and-Analysis) |
 | 💳 **Credit Card Fraud Detection** | Detect fraudulent transactions using ML classification algorithms. | [View Project](https://github.com/ahmedhamdy3425/Credit-Card-Fraud-Detection) |
 | 🧬 **Melanoma Cancer Detection** | Deep learning model that detects melanoma using image classification. | [View Project](https://github.com/ahmedhamdy3425/Melanoma-Cancer-Detection) |
 | 📊 **AI Usage Dashboard** | Interactive dashboard that tracks daily AI usage and gives motivational insights. | [View Project](https://github.com/ahmedhamdy3425/AI-Usage-Dashboard) |
